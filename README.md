@@ -1,4 +1,4 @@
-# hubspot-oauth2 :closed_lock_with_key:
+#  🔒 hubspot-oauth2 🔓
 
 ## Sistema de integração com o Hubspot via OAuth2.
 
